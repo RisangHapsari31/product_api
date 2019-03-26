@@ -1,0 +1,124 @@
+{
+  "products" : [
+  {
+  "id": 1,
+  "judul": "Sauce Bbq Smokey",
+  "harga": "$4.87"
+}, {
+  "id": 2,
+  "judul": "Beef - Tenderlion, Center Cut",
+  "harga": "$3.17"
+}, {
+  "id": 3,
+  "judul": "Cut Wakame - Hanawakaba",
+  "harga": "$3.11"
+}, {
+  "id": 4,
+  "judul": "Mangostein",
+  "harga": "$8.23"
+}, {
+  "id": 5,
+  "judul": "Wine - Red, Pinot Noir, Chateau",
+  "harga": "$9.95"
+}, {
+  "id": 6,
+  "judul": "Cake - Lemon Chiffon",
+  "harga": "$3.38"
+}, {
+  "id": 7,
+  "judul": "Cleaner - Lime Away",
+  "harga": "$8.50"
+}, {
+  "id": 8,
+  "judul": "Mushroom - Morel Frozen",
+  "harga": "$6.82"
+}, {
+  "id": 9,
+  "judul": "Rum - Coconut, Malibu",
+  "harga": "$9.50"
+}, {
+  "id": 10,
+  "judul": "Bread - Granary Small Pull",
+  "harga": "$7.65"
+}, {
+  "id": 11,
+  "judul": "Lamb - Whole Head Off",
+  "harga": "$2.42"
+}, {
+  "id": 12,
+  "judul": "Passion Fruit",
+  "harga": "$8.64"
+}, {
+  "id": 13,
+  "judul": "Bagel - 12 Grain Preslice",
+  "harga": "$9.18"
+}, {
+  "id": 14,
+  "judul": "Tomatoes - Vine Ripe, Red",
+  "harga": "$7.64"
+}, {
+  "id": 15,
+  "judul": "Bread - Petit Baguette",
+  "harga": "$8.95"
+}, {
+  "id": 16,
+  "judul": "Ranchero - Primerba, Paste",
+  "harga": "$3.90"
+}, {
+  "id": 17,
+  "judul": "Nut - Walnut, Chopped",
+  "harga": "$9.16"
+}, {
+  "id": 18,
+  "judul": "Wine - Sake",
+  "harga": "$2.65"
+}, {
+  "id": 19,
+  "judul": "Carbonated Water - Orange",
+  "harga": "$7.88"
+}, {
+  "id": 20,
+  "judul": "Cheese - Parmesan Grated",
+  "harga": "$6.32"
+}, {
+  "id": 21,
+  "judul": "Iced Tea Concentrate",
+  "harga": "$3.46"
+}, {
+  "id": 22,
+  "judul": "Blackberries",
+  "harga": "$6.50"
+}, {
+  "id": 23,
+  "judul": "Oil - Truffle, White",
+  "harga": "$1.18"
+}, {
+  "id": 24,
+  "judul": "Cheese - Asiago",
+  "harga": "$9.26"
+}, {
+  "id": 25,
+  "judul": "Peppercorns - Green",
+  "harga": "$4.58"
+}, {
+  "id": 26,
+  "judul": "Beef - Roasted, Cooked",
+  "harga": "$2.98"
+}, {
+  "id": 27,
+  "judul": "Beef Flat Iron Steak",
+  "harga": "$7.14"
+}, {
+  "id": 28,
+  "judul": "Soup - Knorr, Chicken Gumbo",
+  "harga": "$1.31"
+}, {
+  "id": 29,
+  "judul": "Yoplait Drink",
+  "harga": "$7.25"
+}, {
+  "id": 30,
+  "judul": "Okra",
+  "harga": "$6.87"
+}]
+}
